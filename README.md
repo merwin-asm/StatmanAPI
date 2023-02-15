@@ -20,6 +20,7 @@ To use the service [GET - method] ,
 /service/stop - > Stop the users processes
 ```
 
-With headers ~
+With header ~
     
-    -token:token of discord
+    token:token of discord
+   
